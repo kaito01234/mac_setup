@@ -1,0 +1,7 @@
+brew "asdf"
+brew "gh"
+cask "appcleaner"
+cask "bettertouchtool"
+cask "clipy"
+cask "docker-desktop"
+cask "visual-studio-code"

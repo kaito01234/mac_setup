@@ -1,0 +1,20 @@
+{
+    "apps": [
+        {
+            "name": "vscode",
+            "source": "extras"
+        },
+        {
+            "name": "docker",
+            "source": "main"
+        }
+    ],
+    "buckets": [
+        {
+            "name": "main"
+        },
+        {
+            "name": "extras"
+        }
+    ]
+}
