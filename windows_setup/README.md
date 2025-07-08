@@ -8,6 +8,7 @@ https://scoop.sh/
 
 ```ps
 scoop import scoop.json
+winget import winget.json
 ```
 
 ## Scoop Usage
